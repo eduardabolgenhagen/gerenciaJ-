@@ -1,0 +1,23 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login{
+    border: 2px solid #FFB6C1;
+    border-radius: 5%;
+    width: min-content;
+    padding: 5%;
+    display: grid;
+    background-color: #FFC0CB;
+}
+
+h3{
+    color: white;
+}
+
+.loginInput{
+    border: none;
+    padding: 3%;
+}
